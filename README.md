@@ -8,8 +8,8 @@
 - Composing this task scheduler, I learned how to effectivelt utilize Day.js and understand a Javascrip framework I was unfamiliar with.
 
 ## Github & Deployed Site
-- [Github Repository](https://github.com/Celyph/pokemon-quiz)
-- [Deployed Site](https://celyph.github.io/pokemon-quiz/)
+- [Github Repository](https://github.com/Celyph/task-scheduler)
+- [Deployed Site](https://celyph.github.io/task-scheduler/)
 
 ## Usage
 
